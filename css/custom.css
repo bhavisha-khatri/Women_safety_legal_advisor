@@ -1,0 +1,19 @@
+/*------------------------------------------------------------------
+    File Name: custom.css
+-------------------------------------------------------------------*/
+
+/** ADD YOUR AWESOME CODES HERE **/
+
+.success {
+    color: green;
+    text-transform: none;
+}
+
+.failed {
+    color: red;
+    text-transform: none;
+}
+
+.social_icon {
+    font-size: 32px;
+}
